@@ -12,6 +12,21 @@ THe Guava pictures are made by myself and filmed by WebCam. First, a guava is pu
 </div>
 Second, making the direction of the pedicle as axis, each guava is rotated with a small angle for 10 times. Each time the guava is rotated, a picture is taken.  
 
+<div>
+ (202053_200503_0162.jpg)<br>
+ <img alt="image" src="https://user-images.githubusercontent.com/63309875/133471324-9ee8a4f3-cc34-4309-930f-f1ce78b13198.png" width=10% >
+ <img alt="image" src="https://user-images.githubusercontent.com/63309875/133469786-1d151149-ca70-49fe-b4e4-b71a4f02b7cc.png" width=10% >
+ <img alt="image" src="https://user-images.githubusercontent.com/63309875/133469786-1d151149-ca70-49fe-b4e4-b71a4f02b7cc.png" width=10% >
+ <img alt="image" src="https://user-images.githubusercontent.com/63309875/133469786-1d151149-ca70-49fe-b4e4-b71a4f02b7cc.png" width=10% >
+ <img alt="image" src="https://user-images.githubusercontent.com/63309875/133469786-1d151149-ca70-49fe-b4e4-b71a4f02b7cc.png" width=10% >
+ <img alt="image" src="https://user-images.githubusercontent.com/63309875/133469786-1d151149-ca70-49fe-b4e4-b71a4f02b7cc.png" width=10% >
+ <img alt="image" src="https://user-images.githubusercontent.com/63309875/133469786-1d151149-ca70-49fe-b4e4-b71a4f02b7cc.png" width=10% >
+ <img alt="image" src="https://user-images.githubusercontent.com/63309875/133469786-1d151149-ca70-49fe-b4e4-b71a4f02b7cc.png" width=10% >
+ <img alt="image" src="https://user-images.githubusercontent.com/63309875/133469786-1d151149-ca70-49fe-b4e4-b71a4f02b7cc.png" width=10% >
+ <img alt="image" src="https://user-images.githubusercontent.com/63309875/133469786-1d151149-ca70-49fe-b4e4-b71a4f02b7cc.png" width=10% >
+</div>
+
+
 # PCA method
 
 
