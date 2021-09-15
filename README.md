@@ -28,7 +28,7 @@ Second, making the direction of the pedicle as axis, each guava is rotated with 
  <img alt="image" src="https://user-images.githubusercontent.com/63309875/133472260-fd980303-6111-4316-8ba6-9e2792364ed3.png" width=10% >
  <img alt="image" src="https://user-images.githubusercontent.com/63309875/133472293-37e3b071-0e53-40fa-a241-f7c21397144f.png" width=10% >
 </div>
-<img width="653" alt="image" src="g">
+
 
 
 # PCA method
