@@ -13,7 +13,8 @@ THe Guava pictures are made by myself and filmed by WebCam. Each guava can gener
  (202053_200503_0162.jpg)<br>
 <img alt="image" src="https://user-images.githubusercontent.com/63309875/133469786-1d151149-ca70-49fe-b4e4-b71a4f02b7cc.png" width=20% >
 </div>
-* Secondly, making the direction of the pedicle as axis, each guava is rotated with a small angle for 10 times. Each time the guava is rotated, a picture is taken.  
+
+* Making the direction of the pedicle as axis, each guava is rotated with a small angle for 10 times. Each time the guava is rotated, a picture is taken.  
 
 <div>
  (202053_200503_0161.jpg ~ 202053_200503_0168.jpg)<br>
