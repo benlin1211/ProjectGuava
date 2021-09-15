@@ -29,7 +29,17 @@ Second, making the direction of the pedicle as axis, each guava is rotated with 
  <img alt="image" src="https://user-images.githubusercontent.com/63309875/133472293-37e3b071-0e53-40fa-a241-f7c21397144f.png" width=10% >
 </div>
 
+Finally, the picture of pedicle and that of stalk are taken.
 
+<div>
+ (202053_200503_0161.jpg ~ 202053_200503_0168.jpg)<br>
+ <img alt="image" src="https://user-images.githubusercontent.com/63309875/133473172-17270aec-9fc0-4ef7-8771-5014e6d65244.png" width=20% >
+ <img alt="image" src="https://user-images.githubusercontent.com/63309875/133473230-9eaeb193-7073-4739-a4a1-814b0083fb76.png" width=10% >
+</div>
+
+<img width="589" alt="image" src="https://user-images.githubusercontent.com/63309875/133473172-17270aec-9fc0-4ef7-8771-5014e6d65244.png">
+
+<img width="588" alt="image" src="https://user-images.githubusercontent.com/63309875/133473230-9eaeb193-7073-4739-a4a1-814b0083fb76.png">
 
 # PCA method
 
