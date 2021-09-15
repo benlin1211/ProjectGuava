@@ -8,12 +8,12 @@ This seminar applies Deep Clustering Network to classify the level of guava matu
 THe Guava pictures are made by myself and filmed by WebCam. Each guava can generate 12 pixel images as data.
 
 ## Procedure
-First, a guava is put on the table. Make sure that the direction of the pedicle and the ground surface are parallel.
+* Firstly, a guava is put on the table. Make sure that the direction of the pedicle and the ground surface are parallel.
 <div>
  (202053_200503_0162.jpg)<br>
 <img alt="image" src="https://user-images.githubusercontent.com/63309875/133469786-1d151149-ca70-49fe-b4e4-b71a4f02b7cc.png" width=20% >
 </div>
-Second, making the direction of the pedicle as axis, each guava is rotated with a small angle for 10 times. Each time the guava is rotated, a picture is taken.  
+* Secondly, making the direction of the pedicle as axis, each guava is rotated with a small angle for 10 times. Each time the guava is rotated, a picture is taken.  
 
 <div>
  (202053_200503_0161.jpg ~ 202053_200503_0168.jpg)<br>
@@ -29,7 +29,7 @@ Second, making the direction of the pedicle as axis, each guava is rotated with 
  <img alt="image" src="https://user-images.githubusercontent.com/63309875/133472293-37e3b071-0e53-40fa-a241-f7c21397144f.png" width=10% >
 </div>
 
-Finally, the picture of pedicle and that of stalk are taken.
+* Finally, the picture of pedicle and that of stalk are taken.
 
 <div>
  (202053_200503_0161.jpg ~ 202053_200503_0168.jpg)<br>
