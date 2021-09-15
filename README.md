@@ -2,7 +2,7 @@
 Ben Lin's NCTU CS project in 2020
 
 # Introduction
-This seminar applies Deep Clustering Network to classify the level of guava maturity.
+This seminar applies Deep Clustering Network to classify the level of guava hardness, which is an indicator of guava maturity.
 
 # Dataset
 THe Guava pictures are made by myself and filmed by WebCam. Each guava can generate 12 pixel images as data.
